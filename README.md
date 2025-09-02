@@ -18,7 +18,7 @@ Puedes ver las tablas normalizadas en el siguiente enlace:
 [Ver en Google Sheets](https://docs.google.com/spreadsheets/d/1L_bdChjj8PO8QjKvu6ePhcwsqbH9juSorIi0ji5QUFQ/edit?usp=sharing)
 
 El archivo con las tablas normalizadas está disponible aquí:  
-[Tablas Normalizadas](/Tablas.pdf)
+[Tablas Normalizadas](/docs/Tablas.pdf)
 
 ## Diagramas
 
