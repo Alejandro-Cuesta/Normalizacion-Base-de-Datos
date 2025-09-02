@@ -20,7 +20,7 @@ Puedes ver las tablas normalizadas en el siguiente enlace:
 ## Diagramas
 
 ### Diagrama ER de Chen
-![Diagrama ER de Chen](./docs/Diagrama ER de Chen.jpg)
+![Diagrama ER de Chen](/docs/DiagramaERChen.png)
 
 ### Diagrama UML (patas de gallo)
-![Diagrama UML](./docs/Diagrama Patas de Gallo.png)
+![Diagrama UML](/docs/DiagramaPatasDeGallo.png)
